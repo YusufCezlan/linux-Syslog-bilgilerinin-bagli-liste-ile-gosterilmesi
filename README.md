@@ -33,6 +33,8 @@ gcc syslog_manager.c -o syslog_manager
 📊 Örnek Çıktı
 Program çalıştığında konsolda şu şekilde bir görünüm oluşur:
 --- Mevcut Syslog Kayitlari ---
+
+
 [2026-03-12 18:15:04] INFO   : Sistem baslatildi.
 
 [2026-03-12 18:15:04] DEBUG  : Bagli liste bellek tahsisi yapildi.
