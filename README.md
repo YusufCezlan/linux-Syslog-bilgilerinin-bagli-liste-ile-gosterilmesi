@@ -39,7 +39,9 @@ Program çalıştığında konsolda şu şekilde bir görünüm oluşur:
 
 [2026-03-12 18:15:04] ERROR  : Disk doluluk orani %90 uzerinde!
 
+
 [2026-03-12 18:15:04] INFO   : Kullanici 'admin' giris yapti.
+
 -------------------------------
 
 
