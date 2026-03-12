@@ -34,8 +34,11 @@ gcc syslog_manager.c -o syslog_manager
 Program çalıştığında konsolda şu şekilde bir görünüm oluşur:
 --- Mevcut Syslog Kayitlari ---
 [2026-03-12 18:15:04] INFO   : Sistem baslatildi.
+
 [2026-03-12 18:15:04] DEBUG  : Bagli liste bellek tahsisi yapildi.
+
 [2026-03-12 18:15:04] ERROR  : Disk doluluk orani %90 uzerinde!
+
 [2026-03-12 18:15:04] INFO   : Kullanici 'admin' giris yapti.
 -------------------------------
 
