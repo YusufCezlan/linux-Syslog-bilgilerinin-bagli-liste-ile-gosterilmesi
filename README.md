@@ -32,6 +32,7 @@ gcc syslog_manager.c -o syslog_manager
 
 📊 Örnek Çıktı
 Program çalıştığında konsolda şu şekilde bir görünüm oluşur:
+
 --- Mevcut Syslog Kayitlari ---
 
 
